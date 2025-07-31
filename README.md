@@ -20,8 +20,8 @@
 
 ## 🚀 Featured Projects
 
-### 🔧 [Power Platform CRM Demo](https://github.com/freitasts365/pp-crm-demo)
-*Low-code CRM built with Dataverse, Power Apps Model-driven App, automated workflows via Power Automate, and reporting via Power BI.*
+### 🎟️ [Marine Ball Ticketing System](https://github.com/freitasts365/marineball-ticketing)
+*Ticket sales and registration system for the U.S. Marine Ball, built with Power Apps and Power Automate. Includes automated email confirmations, role-based access, and integration with Outlook and Sharepoint.
 
 ### 🧾 [SharePoint HR Portal](https://github.com/freitasts365/sharepoint-hr)
 *Portal prototype using SPFx, React and Azure for an HR department with role-based document access and workflow automation.*
