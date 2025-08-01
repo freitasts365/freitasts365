@@ -21,10 +21,10 @@
 ## 🚀 Featured Projects
 
 ### 🎟️ [Marine Ball Ticketing System](https://github.com/freitasts365/marineball-ticketing)
-*Ticket sales and registration system for the U.S. Marine Ball, built with Power Apps and Power Automate. Includes automated email confirmations, role-based access, and integration with Outlook and Sharepoint.
+*Ticket sales and registration system for the U.S. Marine Ball, built with Power Apps and Power Automate. Includes automated email confirmations, role-based access, and integration with Outlook and Sharepoint.*
 
-### 🧾 [SharePoint HR Portal](https://github.com/freitasts365/sharepoint-hr)
-*Portal prototype using SPFx, React and Azure for an HR department with role-based document access and workflow automation.*
+### 🗂️ [Project Submission Flow](https://github.com/freitasts365/project-submission-flow)  
+*Automated flow built with Power Automate to capture project ideas submitted via Microsoft Forms, store them in SharePoint or Dataverse, and notify stakeholders via email.*
 
 ### 💡 [.NET Mission Budget Calculator](https://github.com/freitasts365/mission-budget-net8)
 *A mission budgeting tool built with ASP.NET Core 8, EF Core, MediatR, AutoMapper, and React (PrimeReact).*
